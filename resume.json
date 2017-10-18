@@ -1,0 +1,238 @@
+{
+  "basics": {
+    "name": "Pasqualino Sorice",
+    "label": "Computer Engineer",
+    "picture": "",
+    "email": "lino.sorice@gmail.com",
+    "phone": "+39 388 3645 185",
+    "website": "https://pasqualinosorice.com",
+    "summary": "Pasqualino Sorice is a startupper, computer engineer, cryptocurrency fan, amateur photographer and dog lover. He loves to bring out the best in people, making them a part of a big picture. He also loves his job and he is steadily improving his technical and business skills.  he got a Computer Engineer degree at Università degli studi La Sapienza with 110/110. The title of his master thesis was \"A voice based user interface for Smart Homes\".  After the degree he worked in a lot of projects. Now he is the CEO of Hubern a startup that helps other startups making the technological problems affordable also for a low budget company.",
+    "location": {
+      "address": "Via di Valle Schioia 178",
+      "postalCode": "00042",
+      "city": "Anzio (RM)",
+      "countryCode": "IT",
+      "region": "Lazio"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "linosorice",
+        "url": "https://twitter.com/linosorice"
+      },
+      {
+        "network": "Facebook",
+        "username": "linosorice91",
+        "url": "https://www.facebook.com/linosorice91"
+      },
+      {
+        "network": "Linkedin",
+        "username": "pasqualinosorice",
+        "url": "https://www.linkedin.com/in/pasqualinosorice/"
+      },
+      {
+        "network": "Github",
+        "username": "linosorice",
+        "url": "https://github.com/linosorice"
+      },
+      {
+        "network": "Instagram",
+        "username": "linosorice",
+        "url": "https://www.instagram.com/linosorice/"
+      },
+      {
+        "network": "stack overflow",
+        "username": "linosorice",
+        "url": "https://stackoverflow.com/users/1754425/linosorice"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Gopaybot",
+      "position": "Founder",
+      "website": "https://gopaybot.com",
+      "startDate": "2017-09",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "QuizInCloud",
+      "position": "Founder",
+      "website": "http://quizincloud.com",
+      "startDate": "2017-03",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Hubern S.r.l.s.",
+      "position": "CEO/President",
+      "website": "https://hubern.com",
+      "startDate": "2016-07",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Promo Inside S.r.l.s.",
+      "position": "Mobile App Director",
+      "website": "http://promoinside.com",
+      "startDate": "2014/10",
+      "endDate": "2016/07",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "VividaWeb",
+      "position": "Software Engineer",
+      "website": "http://www.vividaweb.it/",
+      "startDate": "2015/03",
+      "endDate": "2015/07",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Innovandia S.r.l.",
+      "position": "Android Developer",
+      "website": "",
+      "startDate": "2014/03",
+      "endDate": "2014/08",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "La coccinella",
+      "position": "IT guy",
+      "website": "http://www.cooplacoccinella.org/",
+      "startDate": "13-07",
+      "endDate": "16-10",
+      "summary": "An onlus engaged in projects for the benefit of children and families in difficulty.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Università degli Studi di Roma La Sapienza",
+      "area": "of Science in Engineering in Computer Science",
+      "studyType": "Master",
+      "startDate": "2013",
+      "endDate": "2016",
+      "gpa": "110/110",
+      "courses": []
+    },
+    {
+      "institution": "Università degli Studi di Roma La Sapienza",
+      "area": "of Science in Engineering in Computer Science and Control Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2009",
+      "endDate": "2012",
+      "gpa": "102/100",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Mobile Apps",
+      "level": "Master",
+      "keywords": [
+        "React Native",
+        "iOS",
+        "Android",
+        "Java",
+        "Swift"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "level": "Advanced",
+      "keywords": [
+        "Bootstrap",
+        "CSS",
+        "HTML",
+        "jquery",
+        "javascript",
+        "React"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "Advanced",
+      "keywords": [
+        "Node.js",
+        "MongoDB",
+        "sql",
+        "python",
+        "php",
+        "ruby"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "Advanced",
+      "keywords": [
+        "Express",
+        "Sails",
+        "Ruby on Rails",
+        "Django",
+        "Laravel",
+        "GatsbyJS"
+      ]
+    },
+    {
+      "name": "Server Administration",
+      "level": "Intermediate",
+      "keywords": [
+        "Apache",
+        "Nginx",
+        "Mysql",
+        "Nagios",
+        "Iptables"
+      ]
+    },
+    {
+      "name": "Other",
+      "level": "Intermediate",
+      "keywords": [
+        "C",
+        "Ansible",
+        "git",
+        "svn",
+        "bash"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Italian",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Photography",
+      "keywords": [
+        "Portrait",
+        "Landscape"
+      ]
+    },
+    {
+      "name": "Guitar",
+      "keywords": [
+        "Rock",
+        "hard rock",
+        "metal"
+      ]
+    }
+  ],
+  "references": []
+}
