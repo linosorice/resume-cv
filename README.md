@@ -2,4 +2,4 @@
 
 Made with [jsonresume](https://github.com/jsonresume)
 
-you can visit it at [resume.pasqualinosorice.com](resume.pasqualinosorice.com)
+you can visit it at [https://resume.pasqualinosorice.com](https://resume.pasqualinosorice.com)
