@@ -49,6 +49,15 @@
   },
   "work": [
     {
+      "company": "BuildTeam",
+      "position": "Software Engineer",
+      "website": "https://buildteam.io/",
+      "startDate": "2017-08",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
       "company": "Gopaybot",
       "position": "Founder",
       "website": "https://gopaybot.com",
@@ -182,6 +191,15 @@
         "Django",
         "Laravel",
         "GatsbyJS"
+      ]
+    },
+    {
+      "name": "Blockchain",
+      "level": "Intermediate",
+      "keywords": [
+        "Ethereum",
+        "Solidity",
+        "Steem"
       ]
     },
     {
